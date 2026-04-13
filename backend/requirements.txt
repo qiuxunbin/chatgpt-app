@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+sqlalchemy[asyncio]
+aiosqlite
+sse-starlette
+python-dotenv
+pydantic-settings
+pyjwt
+bcrypt
+passlib[bcrypt]
